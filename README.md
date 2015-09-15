@@ -1,4 +1,4 @@
-# gulp-util [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coveralls Status][coveralls-image]][coveralls-url] [![Dependency Status][depstat-image]][depstat-url]
+# [![Build Status](https://travis-ci.org/Tiger66639/gulp.svg)](https://travis-ci.org/Tiger66639/gulp)
 
 ## Information
 
